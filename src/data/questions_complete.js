@@ -6,13 +6,13 @@ const data = [
         question: "Qual não é um algoritmo de aprendizado profundo ?",
         options: ["A Redes neurais recorrentes", "Redes neurais convolucionais", "Setr-codificador", "Máquina de vetores de suporte"],
         answer: "Máquina de vetores de suporte",
-        tip: "Minimização dos erros",
+        tip: "Redes neurais convolucionais",
       },
       {
         question: "As opções a seguir não pertecem ao escopo da solução full-stack da Huawei são ?",
         options: ["Habilitar chip", "Computação de ponta", "Ativar aplicativo", "Estrutura de código aberto"],
         answer: "Computação de ponta",
-        tip: " Arquitetura de TI aberta",
+        tip: " Habilitar chip",
       },
       {
         question: "Qual das opções a seguir não é uma operação comum do MindSpore?",
